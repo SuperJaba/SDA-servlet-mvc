@@ -1,0 +1,14 @@
+.idea/
+/SDA-servlet-mvc/.idea/compiler.xml
+/SDA-servlet-mvc/.idea/libraries/Maven__junit_junit_4_12.xml
+/SDA-servlet-mvc/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
+/SDA-servlet-mvc/.idea/libraries/Maven__pl_sda_sort_1_0_SNAPSHOT.xml
+/SDA-servlet-mvc/.idea/misc.xml
+/SDA-servlet-mvc/.idea/modules.xml
+/SDA-servlet-mvc/.idea/workspace.xml
+/SDA-servlet-mvc/facade.iml
+/SDA-servlet-mvc/target/*
+target/
+*.iml
+
+
